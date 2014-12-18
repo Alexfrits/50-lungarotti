@@ -1,0 +1,62 @@
+@media screen and (min-width:400px){
+
+	.details__variet {
+		
+		figure{
+			width: 50%;
+			margin: 0 auto;
+		}
+	}
+
+
+}
+
+@media screen and (min-width:600px){
+	
+	header {
+		h1 {
+			img {
+				width: 20%;
+				margin: 2rem;
+			}
+		}
+	}
+	
+
+.aside--sidebar {
+	float: left;
+	width: 30%;
+	margin-bottom: 200px;
+}
+
+.details__serv,
+.details__sizes,
+.daside__awards,
+.aside--row {
+
+	margin: 0;
+}
+
+
+.aside__dl,
+.aside__soc {
+	display: inline-block;
+	width: 30%;
+}
+
+	.details__variet {
+
+		
+		figure{
+			margin: 0 2rem;
+		}
+	}
+
+.details__sizes {
+
+	ul {
+		margin: 0 2rem;
+	}
+}
+
+}
